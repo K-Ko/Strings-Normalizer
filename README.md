@@ -1,4 +1,4 @@
-# k-ko/strings-normalizer
+# K-Ko/Strings-Normalizer
 
 ## Helper to normalize strings
 
