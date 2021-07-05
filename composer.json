@@ -1,0 +1,19 @@
+{
+	"name": "K-Ko/Strings-Normalizer",
+	"description": "Helper to normalize strings",
+	"type": "library",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Knut Kohl",
+			"email": "github@knutkohl.de"
+		}
+	],
+	"require-dev": {
+		"phpunit/phpunit": "^9.5",
+		"symfony/var-dumper": "^5.3"
+	},
+	"scripts": {
+		"test": "vendor/bin/phpunit"
+	}
+}
